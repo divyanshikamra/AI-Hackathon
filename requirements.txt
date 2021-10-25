@@ -1,0 +1,9 @@
+sklearn
+PIL
+numpy
+keras
+keras_facenet
+mtcnn
+pandas
+pickle
+cv2
